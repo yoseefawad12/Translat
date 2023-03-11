@@ -1,5 +1,4 @@
 # Translat
-Translat
 ![Bannière de Probote](b.png)
 <br>
 <br>
